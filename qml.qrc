@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FontAwesome/FontAwesome-5-Brands-Regular-400.otf</file>
+        <file>FontAwesome/FontAwesome-5-Free-Regular-400.otf</file>
+        <file>FontAwesome/FontAwesome-5-Free-Solid-900.otf</file>
+        <file>FontAwesome/FontAwesome.qml</file>
+        <file>FontAwesome/Icons.qml</file>
+        <file>FontAwesome/qmldir</file>
+
+        <file>qtquickcontrols2.conf</file>
+
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>SUAP.qml</file>
+        <file>MyCourses.qml</file>
+        <file>IconDelegate.qml</file>
+        <file>IconLabel.qml</file>
+        <file>ClassRecord.qml</file>
+        <file>AddEditClass.qml</file>
+        <file>AttendanceRecord.qml</file>
+        <file>IFBANews.qml</file>
+        <file>News.qml</file>
+        <file>Documents.qml</file>
+        <file>PRPGINotices.qml</file>
+        <file>MyData.qml</file>
+        <file>GradesReport.qml</file>
+        <file>GradesReportDetails.qml</file>
+        <file>SEIPublicSearch.qml</file>
+        <file>SEIProcessDetails.qml</file>
+
+        <file>images/emile-logo.png</file>
+        <file>images/emile-drawer.png</file>
+        <file>images/news1.png</file>
+        <file>images/news2.png</file>
+        <file>images/news3.png</file>
+        <file>images/news4.png</file>
+        <file>images/news5.png</file>
+        <file>images/news6.png</file>
+        <file>images/news7.png</file>
+        <file>images/news8.png</file>
+        <file>images/news9.png</file>
+        <file>images/news10.png</file>
+    </qresource>
+</RCC>

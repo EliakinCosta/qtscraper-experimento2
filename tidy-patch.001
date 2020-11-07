@@ -1,0 +1,13 @@
+diff --git a/include/tidy.h b/include/tidy.h
+index c701890..2b86055 100644
+--- a/include/tidy.h
++++ b/include/tidy.h
+@@ -72,6 +72,8 @@
+ #ifdef __cplusplus
+ extern "C" {
+ #endif
++
++typedef unsigned long ulong;
+     
+ /***************************************************************************//**
+  ** @defgroup internal_api Internal API
